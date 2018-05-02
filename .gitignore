@@ -3,6 +3,8 @@ node_modules/
 dist/
 npm-debug.log
 yarn-error.log
+BookStore4_front.tar.gz
+BookStore4.tar.gz
 
 # Editor directories and files
 .idea
